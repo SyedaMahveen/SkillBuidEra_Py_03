@@ -41,17 +41,6 @@ This project demonstrates Object-Oriented Programming (OOP) concepts and real-wo
 
 
 
-## How to Run
-
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open Terminal or Command Prompt.
-4. Run:
-
-python library_management.py
-
-5. Use the menu options to manage books.
-
 
 
 ## Learning Outcomes
